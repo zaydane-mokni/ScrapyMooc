@@ -1,4 +1,4 @@
 # ScrapyMooc
 
-ScrapyZaydane.pdf ==> Course 
-FirstSpider == Exercice 
+# ScrapyZaydane.pdf ==> Course 
+# FirstSpider ==> Exercice 
